@@ -1,3 +1,43 @@
+L'application Piano Graphique Makey Makey a été créée pour faciliter l'utilisation de vidéo avec des cartes Makey Makey.
+Elle permet de jouer avec 8 vidéos assignées à 8 touches de base de la Makey Makey : flêches de droite, de gauche, du haut, 
+du bas, et les touches W, A, S, et D.
+L'application est exportée pour windows mais peut être utilisée sur Mac OS via le fichier source PianoGraphiqueMakeyMakey.pde 
+et l'application Processing.
+
+Mode d'emploi :
+ - Télécharger le fichier PianoGraphiqueMakeyMakey.rar
+ - Extraire le contenu
+ - Remplacer les vidéos dans le dossier data en veillant à garder la même nomenclature. Les vidéos peuvent être en .mov ou .mp4
+   Les vidéos seront nommées selon la touche qui les déclenchera. 
+   Exemple avec des fichiers mp4 :  A.mp4, W.mp4, S.mp4, D.mp4, FH.mp4 (pour la flêche du haut), FB.mp4 (bas), FD.mp4 (droite), 
+   FG.mp4
+ - Lancer l'application
+ - Appuyer sur l'une des touches assignées aux vidéos.
+ 
+
+Pour aller plus loin : 
+
+Si vous souhaitez compiler vous même l'application via le fichier PianoGraphiqueMakeyMakey.pde, veillez à bien placer vos vidéos 
+dans un dossier nommé "data", lui-même placé dans le même dossier que le fichier .pde
+
+Exemple : 
+
+<application>
+  '-> PianoGraphiqueMakeyMakey.pde
+  '-> <Data>
+        '-> 
+
+
+
+
+
+EN :
+
 The .rar file contain the application exported for Windows, and short videos for testing it.
 
-If you recompile using the .pde file, be sure to put your videos into a folder called "data" placed in the same folder than the .pde file.
+Videos could be .mp4 or .mov and will be named depending on the key you chose to play them.
+For exemple with mp4 files :  A.mp4, W.mp4, S.mp4, D.mp4, FH.mp4 (up arrow), FB.mp4 (down), FD.mp4 (right), FG.mp4 (left)
+
+If you recompile using the .pde file, be sure to put your videos into a folder called "data" placed in the same folder 
+than the .pde file.
+
