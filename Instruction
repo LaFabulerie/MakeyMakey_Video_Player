@@ -1,0 +1,3 @@
+The .rar file contain the application exported for Windows, and short videos for testing it.
+
+If you recompile using the .pde file, be sure to put your videos into a folder called "data" placed in the same folder than the .pde file.
