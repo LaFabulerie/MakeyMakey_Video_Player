@@ -1,4 +1,5 @@
-L'application Piano Graphique Makey Makey a été créée pour faciliter l'utilisation de vidéo avec des cartes Makey Makey.
+L'application Piano Graphique Makey Makey a été créée par Gauthier Le Rouzic à La Fabulerie pour faciliter l'utilisation de 
+vidéo avec des cartes Makey Makey.
 Elle permet de jouer avec 8 vidéos assignées à 8 touches de base de la Makey Makey : flêches de droite, de gauche, du haut, 
 du bas, et les touches W, A, S, et D.
 L'application est exportée pour windows mais peut être utilisée sur Mac OS via le fichier source PianoGraphiqueMakeyMakey.pde 
